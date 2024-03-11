@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 28d080ac-f355-4b40-a74e-02f5fc86b1cb
+      url: 'https://cherryli.netlify.app'
