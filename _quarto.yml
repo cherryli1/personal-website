@@ -6,14 +6,24 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: About
+      - href: relevant-experience.qmd
+        text: Relevant Experience
+    right:
+      - icon: github
+        menu:
+          - text: Website Source Code
+            url: https://www.github.com/cherryli1/personal-website
+  page-footer:
+    right: "&copy; 2024, Cherry Li"
+          
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
 
+execute: 
+  freeze: auto
 
 

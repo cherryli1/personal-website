@@ -1,3 +1,20 @@
-This is a Quarto website.
+---
+toc: false
+about: 
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/cherry-li-
+    - icon: github
+      text: Github
+      url: https://www.github.com/cherryli1
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:cherryli04@g.ucla.edu"
+image: pfp.jpg
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About
+
+Hello! My name is Cherry Li, and I am a second-year Statistics and Data Science student at UCLA. I am looking to pursue a career in the actuarial industry and hoping to make meaningful contributions there using what data science has to offer. You can learn more about me from my [resume](resume.pdf "Resume").

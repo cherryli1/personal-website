@@ -1,0 +1,24 @@
+---
+toc: false
+---
+
+## Education
+### University of California, Los Angeles (UCLA)
+- Major: B.S. Statistics and Data Science
+- Relevant Coursework: Linear Algebra, Mathematics of Finance, Probability, Data Analysis and Regression, Mathematical Statistics, Linear Models, Design and Analysis of Experiment, Statistical Models and Data Mining, Statistical Programming with R, Computational Statistics with R, Monte Carlo Methods
+
+## Actuarial Exams
+- Exam P: Passed *(September 2023)*
+
+## Extracurricular Activities
+- Casualty Actuarial Society: Student Central Summer Program Participant *(Summer 2023)*
+- Bruin Actuarial Society: Director of External Outreach *(Current)*
+- Asian American Tutorial Project: Co-Admin & Director of Finance and Transportation *(Current)*
+- Volunteer Income Tax Assistance (VITA) at UCLA: Volunteer *(Current)*
+
+## Academic Projects
+- STATS 140XP: What makes a company a good company? *(Winter 2024)*
+- STATS 101C: [IMDb Movies Review Prediction](/projects/STATS_101C_Final_Project.pdf) *(Fall 2023)*
+- STATS 112: [Sentiment Analysis of Reflection Papers From Ms. Susan Philips' Talk](/projects/STATS-112-Final-Project.pdf) *(Fall 2023)*
+- STATS 101A: [Multiple Regression Analysis of Boston Housing Values](/projects/STATS_101A_Final_Research_Report.pdf) *(Winter 2023)*
+- Research Seminar: [An Analysis of Significant Factors that Affect Branford Houses' Appraised Value](https://doi.org/10.1007/978-981-99-6441-3_128) *(Summer 2022)*
